@@ -6,6 +6,10 @@ tags:
   - kinematics
   - polytope algebra
 authors:
+  - name: Lucie Farrell
+    corresponding: true # (This is how to denote the corresponding author)
+    orcid: 0009-0001-6950-937X
+    affiliation: "The Pennsylvania State University"
   - name: Antun Skuric
     corresponding: true # (This is how to denote the corresponding author)
     orcid: 0000-0002-3323-4482
