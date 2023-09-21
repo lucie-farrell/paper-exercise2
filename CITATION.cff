@@ -1,5 +1,8 @@
 cff-version: "1.2.0"
 authors:
+- family-names: Farrell
+  given-names: Lucie
+  orcid: "https://orcid.org/0009-0001-6950-937X"
 - family-names: Skuric
   given-names: Antun
   orcid: "https://orcid.org/0000-0002-3323-4482"
